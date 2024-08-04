@@ -39,7 +39,7 @@ footer a {
     list-style-type: none;  
 }
 
-.socialMedia{
+#redes--sociales{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -47,7 +47,7 @@ footer a {
     margin-top: -20px;
     margin-left: -20px;
 }
-.socialMedia img{
+#redes--sociales img{
     max-width: 60px;
 }
 
