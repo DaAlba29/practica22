@@ -118,7 +118,7 @@ body {
 }
 
 /*********************************************** Sección del footer*************************************** */
-footer {
+/*footer {
     display: flex;
     justify-content: center;
     background-color: #f2f2f2;
@@ -170,7 +170,7 @@ footer a {
 .socialMedia img{
     max-width: 60px;
 }
-
+*/
 /*********************************Seccion Card*************************************/
 #mycard {
     border: 2px #DCDCDC;
@@ -181,7 +181,7 @@ footer a {
     display: flex;
     flex-direction: column;
 }
-#mycard img{
+#iconface img{
     max-width: 40px;
 }
 .image--head{
